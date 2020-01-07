@@ -1,3 +1,9 @@
+# Wavedash specific
+iso/
+libmelee/
+m-overlay/
+slippi_files/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
