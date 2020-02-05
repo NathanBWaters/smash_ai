@@ -3,6 +3,11 @@ iso/
 libmelee/
 m-overlay/
 slippi_files/
+phillip/
+slippi/
+wandb/
+model_checkpoints/
+node_combos/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

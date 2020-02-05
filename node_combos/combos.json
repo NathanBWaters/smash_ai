@@ -5,7 +5,7 @@
    "outputOverlayFiles":true,
    "queue":[
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB8/Game_20190309T003836.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB8\\Game_20190309T003836.slp",
          "startFrame":7862,
          "endFrame":9129,
          "gameStartAt":"2019-03-09T00:38:36",
@@ -19,7 +19,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB13/Game_20190406T124611.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB13\\Game_20190406T124611.slp",
          "startFrame":6087,
          "endFrame":6920,
          "gameStartAt":"2019-04-06T12:46:11",
@@ -33,7 +33,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB15/Game_20190406T154459.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB15\\Game_20190406T154459.slp",
          "startFrame":6780,
          "endFrame":7306,
          "gameStartAt":"2019-04-06T15:44:59",
@@ -47,7 +47,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB11/Game_20190406T020144.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB11\\Game_20190406T020144.slp",
          "startFrame":10556,
          "endFrame":11437,
          "gameStartAt":"2019-04-06T02:01:44",
@@ -61,7 +61,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB5/Game_20190406T171909.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB5\\Game_20190406T171909.slp",
          "startFrame":7762,
          "endFrame":8729,
          "gameStartAt":"2019-04-06T17:19:09",
@@ -75,7 +75,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB10/Game_20190406T134200.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB10\\Game_20190406T134200.slp",
          "startFrame":5225,
          "endFrame":5954,
          "gameStartAt":"2019-04-06T13:42:00",
@@ -89,7 +89,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB5/Game_20190406T202719.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB5\\Game_20190406T202719.slp",
          "startFrame":7655,
          "endFrame":8277,
          "gameStartAt":"2019-04-06T20:27:19",
@@ -103,7 +103,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB12/Game_20190406T102048.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB12\\Game_20190406T102048.slp",
          "startFrame":1947,
          "endFrame":2866,
          "gameStartAt":"2019-04-06T10:20:48",
@@ -117,7 +117,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB11/Game_20190406T085811.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB11\\Game_20190406T085811.slp",
          "startFrame":4325,
          "endFrame":5298,
          "gameStartAt":"2019-04-06T08:58:11",
@@ -131,7 +131,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB11/Game_20190406T053913.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB11\\Game_20190406T053913.slp",
          "startFrame":3758,
          "endFrame":4757,
          "gameStartAt":"2019-04-06T05:39:13",
@@ -145,7 +145,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB9/Game_20190309T001943.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB9\\Game_20190309T001943.slp",
          "startFrame":6379,
          "endFrame":7385,
          "gameStartAt":"2019-03-09T00:19:43",
@@ -159,7 +159,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB11/Game_20190406T054418.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB11\\Game_20190406T054418.slp",
          "startFrame":6742,
          "endFrame":7524,
          "gameStartAt":"2019-04-06T05:44:18",
@@ -173,7 +173,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB9/Game_20190309T000216.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB9\\Game_20190309T000216.slp",
          "startFrame":1254,
          "endFrame":1965,
          "gameStartAt":"2019-03-09T00:02:16",
@@ -187,7 +187,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB2/Game_20190406T134516.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB2\\Game_20190406T134516.slp",
          "startFrame":5543,
          "endFrame":6444,
          "gameStartAt":"2019-04-06T13:45:16",
@@ -201,7 +201,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB11/Game_20190406T083255.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB11\\Game_20190406T083255.slp",
          "startFrame":13769,
          "endFrame":14570,
          "gameStartAt":"2019-04-06T08:32:55",
@@ -215,7 +215,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB11/Game_20190406T011253.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB11\\Game_20190406T011253.slp",
          "startFrame":3869,
          "endFrame":4761,
          "gameStartAt":"2019-04-06T01:12:53",
@@ -229,7 +229,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB13/Game_20190406T194529.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB13\\Game_20190406T194529.slp",
          "startFrame":6343,
          "endFrame":7865,
          "gameStartAt":"2019-04-06T19:45:29",
@@ -243,7 +243,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB6/Game_20190309T031959.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB6\\Game_20190309T031959.slp",
          "startFrame":4111,
          "endFrame":5369,
          "gameStartAt":"2019-03-09T03:19:59",
@@ -257,7 +257,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB12/Game_20190406T125750.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB12\\Game_20190406T125750.slp",
          "startFrame":2057,
          "endFrame":2747,
          "gameStartAt":"2019-04-06T12:57:50",
@@ -271,7 +271,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB13/Game_20190406T175629.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB13\\Game_20190406T175629.slp",
          "startFrame":4721,
          "endFrame":5633,
          "gameStartAt":"2019-04-06T17:56:29",
@@ -285,7 +285,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB13/Game_20190406T120421.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB13\\Game_20190406T120421.slp",
          "startFrame":283,
          "endFrame":1172,
          "gameStartAt":"2019-04-06T12:04:21",
@@ -299,7 +299,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB13/Game_20190406T202941.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB13\\Game_20190406T202941.slp",
          "startFrame":4111,
          "endFrame":4998,
          "gameStartAt":"2019-04-06T20:29:41",
@@ -313,7 +313,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB3/Game_20190406T171619.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB3\\Game_20190406T171619.slp",
          "startFrame":7052,
          "endFrame":8013,
          "gameStartAt":"2019-04-06T17:16:19",
@@ -327,7 +327,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB13/Game_20190406T182120.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB13\\Game_20190406T182120.slp",
          "startFrame":1658,
          "endFrame":2593,
          "gameStartAt":"2019-04-06T18:21:20",
@@ -341,7 +341,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB13/Game_20190406T180904.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB13\\Game_20190406T180904.slp",
          "startFrame":740,
          "endFrame":1804,
          "gameStartAt":"2019-04-06T18:09:04",
@@ -355,7 +355,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB5/Game_20190406T120447.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB5\\Game_20190406T120447.slp",
          "startFrame":4538,
          "endFrame":5497,
          "gameStartAt":"2019-04-06T12:04:47",
@@ -369,7 +369,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB11/Game_20190406T081351.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB11\\Game_20190406T081351.slp",
          "startFrame":5707,
          "endFrame":6487,
          "gameStartAt":"2019-04-06T08:13:51",
@@ -383,7 +383,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB8/Game_20190309T000015.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB8\\Game_20190309T000015.slp",
          "startFrame":7640,
          "endFrame":8422,
          "gameStartAt":"2019-03-09T00:00:15",
@@ -397,7 +397,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB13/Game_20190406T175926.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB13\\Game_20190406T175926.slp",
          "startFrame":4101,
          "endFrame":4821,
          "gameStartAt":"2019-04-06T17:59:26",
@@ -411,7 +411,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB14/Game_20190406T115749.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB14\\Game_20190406T115749.slp",
          "startFrame":381,
          "endFrame":1049,
          "gameStartAt":"2019-04-06T11:57:49",
@@ -425,7 +425,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB12/Game_20190406T082714.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB12\\Game_20190406T082714.slp",
          "startFrame":3829,
          "endFrame":4763,
          "gameStartAt":"2019-04-06T08:27:14",
@@ -439,7 +439,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB13/Game_20190406T193010.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB13\\Game_20190406T193010.slp",
          "startFrame":7337,
          "endFrame":8105,
          "gameStartAt":"2019-04-06T19:30:10",
@@ -453,7 +453,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB11/Game_20190406T042652.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB11\\Game_20190406T042652.slp",
          "startFrame":10272,
          "endFrame":11016,
          "gameStartAt":"2019-04-06T04:26:52",
@@ -467,7 +467,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB12/Game_20190406T105730.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB12\\Game_20190406T105730.slp",
          "startFrame":222,
          "endFrame":1255,
          "gameStartAt":"2019-04-06T10:57:30",
@@ -481,7 +481,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB3/Game_20190406T175018.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB3\\Game_20190406T175018.slp",
          "startFrame":12481,
          "endFrame":13190,
          "gameStartAt":"2019-04-06T17:50:18",
@@ -495,7 +495,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB13/Game_20190406T120029.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB13\\Game_20190406T120029.slp",
          "startFrame":2088,
          "endFrame":2971,
          "gameStartAt":"2019-04-06T12:00:29",
@@ -509,7 +509,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB11/Game_20190406T061640.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB11\\Game_20190406T061640.slp",
          "startFrame":2259,
          "endFrame":3211,
          "gameStartAt":"2019-04-06T06:16:40",
@@ -523,7 +523,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB15/Game_20190406T211302.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB15\\Game_20190406T211302.slp",
          "startFrame":-123,
          "endFrame":645,
          "gameStartAt":"2019-04-06T21:13:02",
@@ -537,7 +537,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB6/Game_20190308T235740.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB6\\Game_20190308T235740.slp",
          "startFrame":-123,
          "endFrame":754,
          "gameStartAt":"2019-03-08T23:57:40",
@@ -551,7 +551,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB2/Game_20190406T134811.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB2\\Game_20190406T134811.slp",
          "startFrame":5646,
          "endFrame":6428,
          "gameStartAt":"2019-04-06T13:48:11",
@@ -565,7 +565,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB5/Game_20190406T193203.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB5\\Game_20190406T193203.slp",
          "startFrame":5857,
          "endFrame":6883,
          "gameStartAt":"2019-04-06T19:32:03",
@@ -579,7 +579,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB15/Game_20190406T212016.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB15\\Game_20190406T212016.slp",
          "startFrame":3482,
          "endFrame":4296,
          "gameStartAt":"2019-04-06T21:20:16",
@@ -593,7 +593,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB10/Game_20190406T174620.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB10\\Game_20190406T174620.slp",
          "startFrame":5927,
          "endFrame":6910,
          "gameStartAt":"2019-04-06T17:46:20",
@@ -607,7 +607,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB13/Game_20190406T121518.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB13\\Game_20190406T121518.slp",
          "startFrame":5201,
          "endFrame":5961,
          "gameStartAt":"2019-04-06T12:15:18",
@@ -621,7 +621,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB15/Game_20190406T184747.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB15\\Game_20190406T184747.slp",
          "startFrame":1553,
          "endFrame":2427,
          "gameStartAt":"2019-04-06T18:47:47",
@@ -635,7 +635,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB9/Game_20190309T003404.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB9\\Game_20190309T003404.slp",
          "startFrame":6807,
          "endFrame":7406,
          "gameStartAt":"2019-03-09T00:34:04",
@@ -649,7 +649,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB15/Game_20190406T154718.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB15\\Game_20190406T154718.slp",
          "startFrame":873,
          "endFrame":1833,
          "gameStartAt":"2019-04-06T15:47:18",
@@ -663,7 +663,7 @@
          }
       },
       {
-         "path":"/Users/NathanBWaters/code/smash_ai/slippi_files/Fight-Pitt-9/USB2/Game_20190406T211312.slp",
+         "path":"D:\\code\\smash_ai\\slippi\\replays\\Fight-Pitt-9\\USB2\\Game_20190406T211312.slp",
          "startFrame":2176,
          "endFrame":2958,
          "gameStartAt":"2019-04-06T21:13:12",
