@@ -5,7 +5,7 @@ import os
 import wandb
 import torch
 import torch.optim as optim
-from torch.nn import BCEWithLogitsLoss
+from torch.nn import BCELoss
 from torchsummary import summary
 
 from wavedash.constants import (
@@ -66,7 +66,7 @@ class TrainCharModel(object):
 
         self.epochs = 1000
 
-        self.criterion = BCEWithLogitsLoss()
+        self.criterion = BCELoss()
 
         if print_summary:
             summary(self.model,
@@ -78,7 +78,9 @@ class TrainCharModel(object):
         self.use_wandb = use_wandb
         if self.use_wandb:
             print('Using wandb!')
-            wandb.init(name=self.name, project='smash_char_predictor')
+            wandb.init(name=self.name,
+                       project='smash_char_predictor',
+                       force=True)
             wandb.watch(self.model)
 
     def train(self):
@@ -171,6 +173,9 @@ class TrainCharModel(object):
 
 
 if __name__ == '__main__':
-    training_class = TrainCharModel('1_first_attempt', use_wandb=True)
+    training_class = TrainCharModel(
+        '2_fixed_softmax_sigmoid_error',
+        use_wandb=True
+    )
     training_class.loop()
     print('done')

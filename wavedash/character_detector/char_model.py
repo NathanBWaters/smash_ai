@@ -112,7 +112,7 @@ class CharacterPredictModel(nn.Module):
 
         x = self.fc1(x)
 
-        output = torch.log_softmax(x, dim=1)
+        output = torch.sigmoid(x)
 
         return output
 
@@ -120,8 +120,9 @@ class CharacterPredictModel(nn.Module):
         '''
         Loads the weights for the model
         '''
-        weights = torch.load(os.path.join(MODEL_CHECKPOINTS, 'char_model'))
-
+        print('Loading the weights for CharacterPredictModel')
+        weights = torch.load(os.path.join(
+            MODEL_CHECKPOINTS, '2_fixed_softmax_sigmoid_error__400'))
         self.load_state_dict(weights)
 
     def format_output(self, output):

@@ -11,9 +11,6 @@ SLIPPI_RECORDINGS = os.path.join(ROOT, 'slippi', 'recordings')
 CACHED_GAMES = os.path.join(WAVEDASH, 'cached_games')
 CHAR_DETECTOR_DIR = os.path.join(WAVEDASH, 'character_detector')
 
-CHAR_INPUT_SIZE = (250, 75, 3)
-NUM_PLAYERS = 4
-
 
 class IntEnum(enum.IntEnum):
     def __repr__(self):
@@ -25,6 +22,10 @@ class CHARACTERS(IntEnum):
     FOX = 1
     MARTH = 2
 
+
+CHAR_INPUT_SIZE = (250, 75, 3)
+NUM_PLAYERS = 4
+CHAR_CLASSES = NUM_PLAYERS * len(CHARACTERS)
 
 FOX_MARTH_MATCHUPS = [
     os.path.join(SLIPPI_REPLAYS, 'Fight-Pitt-9', 'USB10', 'Game_20190406T115109.slp'),
