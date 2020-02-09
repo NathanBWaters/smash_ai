@@ -31,7 +31,10 @@ class Game(object):
     '''
     Extension of Slippi Game with extra helpful functionality
     '''
-    def __init__(self, file, video_path=None, init_data=True):
+    def __init__(self,
+                 file,
+                 video_path=None,
+                 init_data=True):
         self.slippi_path = file
         self.slippi_game = SlippiGame(self.slippi_path)
         self.game_name = self.slippi_path.split('\\')[-1].split('.slp')[0]

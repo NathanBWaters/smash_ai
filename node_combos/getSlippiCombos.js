@@ -130,6 +130,8 @@ function getCombos() {
       // since it is less intensive to get the settings we do that first
       const settings = game.getSettings();
       const metadata = game.getMetadata();
+      // console.log(`Settings: ${settings}`);
+      // console.log(`metadata: ${metadata}`);
 
       // skip to next file if CPU exists
       const cpu = _.some(settings.players, (player) => player.type != 0)
@@ -145,38 +147,23 @@ function getCombos() {
       const stats = game.getStats();
       const originalCombos = _.get(stats, filterSet);
 
-      // filter out any non-killing combos and low percent combos
-      const combos = filterCombos(originalCombos, settings, metadata);
+      // adding a buffer is key to getting the combo with some space so you can cut out the buffer and the black frames
+      let x = {
+        path: file,
+        startFrame: metadata.startFrame,
+        endFrame: metadata.lastFrame,
+        gameStartAt: _.get(metadata, "startAt", ""),
+        gameStation: _.get(metadata, "consoleNick", ""),
+      };
 
-      // create objects that will be in the queue and make sure they stay within the bounds of each file
-      _.each(combos, ({startFrame, endFrame, playerIndex, endPercent, startPercent}) => {
-        
-        let player = _.find(settings.players, (player) => player.playerIndex === playerIndex);
-        let opponent = _.find(settings.players, (player) => player.playerIndex !== playerIndex);
+      dolphin.queue.push(x);
 
-        // adding a buffer is key to getting the combo with some space so you can cut out the buffer and the black frames
-        let x = {
-          path: file,
-          startFrame: startFrame - 240 > -123 ? startFrame - 240 : -123,
-          endFrame: endFrame + 180 < metadata.lastFrame ? endFrame + 180 : metadata.lastFrame,
-          gameStartAt: _.get(metadata, "startAt", ""),
-          gameStation: _.get(metadata, "consoleNick", ""),
-          additional: {
-            characterId: player.characterId,
-            characterName: slp.characters.getCharacterInfo(player.characterId).name,
-            opponentCharacterId: opponent.characterId,
-            opponentCharacterName: slp.characters.getCharacterInfo(opponent.characterId).name,
-            damageDone: endPercent-startPercent,
-          }
-        };
-
-        dolphin.queue.push(x);
-      });
-      combos.length === 0 ? noCombos++ : console.log(`File ${i+1} | ${combos.length} combo(s) found in ${path.basename(file)}`);
+      // combos.length === 0 ? noCombos++ : console.log(`File ${i+1} | ${combos.length} combo(s) found in ${path.basename(file)}`);
+      console.log(`File ${i+1} | completed`);
     } catch (err) {
       fs.appendFileSync("./log.txt", `${err.stack}\n\n`);
       badFiles++;
-      console.log(`File ${i+1} | ${file} is bad`);
+      console.log(`File ${i+1} | ${file} is bad with error: ${err}`);
     }
     if (i/files.length >= checkPercent && checkPercent != 1) {
       console.log(`About ${checkPercent * 100}% of files have been checked`);

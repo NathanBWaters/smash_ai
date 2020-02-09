@@ -10,10 +10,14 @@ SLIPPI_REPLAYS = os.path.join(ROOT, 'slippi', 'replays')
 SLIPPI_RECORDINGS = os.path.join(ROOT, 'slippi', 'recordings')
 CACHED_GAMES = os.path.join(WAVEDASH, 'cached_games')
 CHAR_DETECTOR_DIR = os.path.join(WAVEDASH, 'character_detector')
+DATA_SIMILARITY_DIR = os.path.join(WAVEDASH, 'data_collector', 'smash_images')
 
 
 class IntEnum(enum.IntEnum):
     def __repr__(self):
+        '''
+        String representation of the enum
+        '''
         return self.__class__.__name__ + '.' + self._name_
 
 

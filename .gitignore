@@ -8,6 +8,7 @@ slippi/
 wandb/
 model_checkpoints/
 node_combos/
+**.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
